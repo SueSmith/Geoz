@@ -6,6 +6,7 @@ description = ""
 language = "javascript"
 manifest_version = 2
 name = "Tag requests with geolocation data"
+service_id = "UWtIYgWgsZ4xNbcxsq4w24"
 
 [scripts]
   build = "npm exec js-compute-runtime ./src/index.js ./bin/main.wasm"
